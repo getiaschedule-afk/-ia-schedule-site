@@ -7,7 +7,7 @@ window.SITE = {
   businessId:  "",   // ע.מ. / ח.פ.
   businessName:"IA Schedule",   // השם הרשמי של העסק (כפי שרשום ברשויות)
   address:     "",   // כתובת למשלוח דואר (לא חובה להציג באתר, אבל נדרשת במדיניות פרטיות)
-  hosting:     "",   // ספק האחסון, למשל Netlify / Cloudflare Pages
+  hosting:     "GitHub Pages",   // ספק האחסון, למשל Netlify / Cloudflare Pages
   retention:   "",   // כמה זמן שומרים פניות, למשל "עד 24 חודשים מהפנייה האחרונה"
   privacyUrl:  "privacy.html",
   a11yDate:    "",   // תאריך בדיקת הנגישות האחרונה
